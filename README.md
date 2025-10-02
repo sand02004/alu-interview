@@ -1,1 +1,1 @@
-
+his project is about calculating how much water can be trapped between walls after raining. Each wall is represented by a non-negative number, which indicates its height. The goal is to determine the total amount of water that would collect in the gaps between the walls.
